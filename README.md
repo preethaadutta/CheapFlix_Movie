@@ -1,4 +1,4 @@
-# CheapFlix – Web Design and Databases Coursework
+# 🎬 CheapFlix – Web Design and Databases Coursework
 
 ## 🎯 Project Overview
 CheapFlix is a web based streaming service application developed as part of the Web Design and Databases module coursework.  
@@ -90,12 +90,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Step 4: Run the Application
+### 4️⃣ Step 4: Run the Application
 ```bash
 python run.py
 ```
 
-### 3️⃣ Step 5: Open in Browser
+### 5️⃣ Step 5: Open in Browser
 ```bash
 http://127.0.0.1:5000
 ```
@@ -125,7 +125,7 @@ Test coverage includes:
 
 ---
 
-## Database Design
+## 🧩 Database Design
 
 The database follows relational design principles:
 
@@ -150,17 +150,6 @@ Tables:
 - Currency conversion is not implemented and is simulated  
 - Device restriction logic is not enforced in current version  
 - Subscription cancellation logic is not enforced in current version  
-
----
-
-## Limitations
-
-- No real payment gateway integration  
-- No real email service integration  
-- No real currency exchange API  
-- Limited admin analytics  
-- Device restriction logic not implemented  
-- No real time streaming  
 
 ---
 
